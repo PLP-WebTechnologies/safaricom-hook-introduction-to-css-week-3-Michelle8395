@@ -1,0 +1,14 @@
+/* External CSS */
+body {
+    background-color: #e0f7fa;
+}
+
+a.hover-link {
+    color: blue;
+    text-decoration: none;
+}
+
+a.hover-link:hover {
+    color: red;
+    text-decoration: underline;
+}
